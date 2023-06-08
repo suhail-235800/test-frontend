@@ -1,0 +1,16 @@
+in\doctorbooking\ust\domain\Appointment.class
+in\doctorbooking\ust\domain\Doctor.class
+in\doctorbooking\ust\exceptions\InvalidAppointmentDataException.class
+in\doctorbooking\ust\controller\AppointmentController.class
+in\doctorbooking\ust\dto\RequestDto.class
+in\doctorbooking\ust\repository\AppointmentRepository.class
+in\doctorbooking\ust\exceptions\AppointmentNotFoundException.class
+in\doctorbooking\ust\service\DoctorService.class
+in\doctorbooking\ust\service\AppointmentService.class
+in\doctorbooking\ust\exceptions\AppointmentAlreadyExistsException.class
+in\doctorbooking\ust\service\AppointmentServiceImpl.class
+in\doctorbooking\ust\exceptions\GlobalExceptionHandler.class
+in\doctorbooking\ust\Main.class
+in\doctorbooking\ust\service\DoctorServiceImpl.class
+in\doctorbooking\ust\dto\DoctorDto.class
+in\doctorbooking\ust\dto\AppointmentDto.class
